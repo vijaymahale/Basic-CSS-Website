@@ -1,0 +1,117 @@
+body{color:#40514e;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    margin:0;
+    }
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size:90px;
+    margin:50px auto 0 auto;
+    color:#66BFBF;
+    font-weight:500;
+    }
+h2{
+    font-size:2rem;
+    color:#66BFBF; 
+   
+    font-family: 'Montserrat', sans-serif;
+    }
+h3{
+    font-family: 'Montserrat', sans-serif;
+    }
+h3,a{
+    color:#11999E;
+    }
+p{font-family: 'Merriweather', serif;}
+.top-container{
+    background-color:#e4f9f5;
+    position:relative;
+    padding-top:100px;
+}
+.topcloud{
+    position:absolute;
+    right:300px; 
+    top:50px;
+    }
+.bottomcloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+    }
+.profile{
+    margin:60px 0;
+    line-height:1.5;
+    }
+.profile p{
+    color:#40514E; 
+    width:30%;
+    margin:auto;
+    }
+hr{ 
+    border-style: none; 
+    border-top-style:dotted;
+    border-width:8px;
+    width:5%; 
+    border-color:#EAF6F6;
+    }
+.skills{
+    margin-top:60px;
+    }
+.skill-row{
+    width:50%;
+    margin:100px auto;
+    text-align:left;
+    line-height:1.5;
+    }
+.skill-row h3{
+    margin-bottom:7px;
+}
+.skill-row p{
+    margin-top:5px;
+}
+.codeimg{
+    float:left; 
+    padding:20px;
+    }
+.designimg{
+    float:right;
+     padding:20px;
+     }
+.contact-me{
+    line-height:2;
+    margin:80px auto;
+    }
+.contact-me p{
+    width:45%;
+    margin:20px auto 40px auto;
+  
+    }
+.BUTTON_ETE{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    padding:5px 18px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+.bottom-container{
+    background-color:#66bfbf;
+    padding:40px 0;
+    }
+.footer-link{
+    color:#11999E; 
+    text-decoration:none;
+    padding:5px 30px;
+    }
+.bottom-container p{
+    color:#fff;
+    font-size:13px;
+    padding-top:15px;
+    }
